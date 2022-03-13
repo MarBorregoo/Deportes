@@ -53,7 +53,13 @@ p, ul {
   font-size: 24px; 
 
 }
+p, ol {
 
+  font-family: Verdana, Helvetica, sans-serif;
+  color: #000;
+  font-size: 24px; 
+
+}
 
 /*Le damos formato a los pies de imagen*/
 figcaption {
