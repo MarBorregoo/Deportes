@@ -39,7 +39,13 @@ h2 {
   color: Tomato	;
 
 }
-
+h3 {
+  font-weight: bold;
+  text-align: center;  
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #000 ;
+  
+}
 p, ul {
 
   font-family: Verdana, Helvetica, sans-serif;
